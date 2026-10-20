@@ -7,9 +7,9 @@
 ```
 Name of Quantlet: TopDownloads
 
-Published in: GitHub API based QuantNet Mining infrastructure in R, Section "Google Analytics
+Published in: GitHub API based QuantNet Mining infrastructure in R, Section "Google Analytics"
 
-Description: Extracts recent download statistics from Google Analytics starting November 2013 for each Quantlet.
+Description: Extracts recent download statistics from Google Analytics starting November 2013 for each Quantlet. Furthermore, short explanations (based on the desciptions in the meta information) of the specific Quantlets are added and the final results are presented as an R data frame. The API query specifies the parameters dimensions, metrics and filters conditioning the desired Event Tracking criteria.
 
 Keywords: Google Analytics, API, RGoogleAnalytics, Web Metrics, data mining, QuantNet, download statistics, website visitors, statistics
 
